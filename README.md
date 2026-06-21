@@ -2,9 +2,6 @@
   <img src="banner.jpeg" width="100%">
 </p>
 
-<img src="banner1.gif" width="300">
-
-
 
 <p align="left">
 <img align="right" src="banner1.gif" width="300">
