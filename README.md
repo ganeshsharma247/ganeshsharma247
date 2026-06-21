@@ -3,13 +3,16 @@
 </p>
 
 
-<p align="left">
-<img align="right" src="banner1.gif" width="300">
-</p>
+<table>
+<tr>
+
+<td width="60%">
 
 ## Hi 👋 I'm Ganesh Sharma
 
 I'm a B.Tech CSE student passionate about Data Science, Machine Learning, and AI.
+
+I enjoy building projects, solving problems, and continuously learning new technologies.
 
 🎓 B.Tech CSE @ Medi-Caps University
 
@@ -17,7 +20,16 @@ I'm a B.Tech CSE student passionate about Data Science, Machine Learning, and AI
 
 🚀 Currently Learning DSA, Machine Learning & Deep Learning
 
-💻 Building projects and improving every day
+</td>
+
+<td width="40%">
+
+<img src="banner1.gif" width="300"/>
+
+</td>
+
+</tr>
+</table>
 
 <!--
 **ganeshsharma247/ganeshsharma247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
