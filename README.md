@@ -27,7 +27,7 @@ When I'm not working on datasets or coding projects, you'll find me learning new
 
 - 🐍 Python Developer
 
-- 🚀 Currently Learning Data Structures & Algorithms, Machine Learning, Deep Learning, and Data Analytics
+- 🚀 Currently Learning Data Structures & Algorithms, Machine Learning, Deep Learning, & Data Analytics
 
 - 📫 Reach me at **Sharmaganesh8109@gmail.com**
 
