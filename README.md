@@ -13,7 +13,7 @@ Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
 
 Hey there! I'm a B.Tech CSE student passionate about **Data Science, Machine Learning, and Artificial Intelligence**.
 
-I enjoy transforming raw data into meaningful insights, building machine learning solutions, and continuously exploring new technologies.
+I enjoy transforming raw data into meaningful insights, building machine learning solutions, and continuously exploring new technologies
 
 When I'm not working on datasets or coding projects, you'll find me learning new concepts, solving problems, and building projects that strengthen my journey toward becoming a Data Scientist
 
